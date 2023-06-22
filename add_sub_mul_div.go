@@ -11,5 +11,5 @@ var	c int = a-b
 var	c int= a*b
 var	c int= a/b
 
-	fmt.Println(c)
+fmt.Println(c)
 }
