@@ -10,6 +10,5 @@ func main() {
 	a := true
 	b := false
 	c := a && b
-	d := a || b
 	fmt.Println(c)  // it returns false 
 }
