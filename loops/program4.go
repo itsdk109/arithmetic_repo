@@ -1,5 +1,4 @@
 /* To Print below pattern: 
-   *******
    *
    **
    ***
