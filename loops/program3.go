@@ -1,4 +1,4 @@
-//display n terms of natural numbers and their sum
+//Display n terms of natural numbers and their sum
 package main 
 
 import "fmt"
