@@ -1,4 +1,4 @@
-/* 
+/* To Print below pattern: 
    *******
    ******
    *****
