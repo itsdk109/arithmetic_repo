@@ -1,27 +1,26 @@
 /* To Print this pattern -
+*******
+******
+*****
+****
+***
+**
+*
+ */
 
-		*
-		**
-		***
-		****
-		*****
-		******
-		*******
+// Main Code Start
 
-*/
-
-// Main Code Start 
-
-package main 
+package main
 
 import "fmt"
 
-func main(){
+func main() {
+
 	n := 7
 	
-	for i := 0 ; i < n ; i++ {
+	for i := 6 ; i < n ; i-- {
 
-		for j := 0 ; j <= i; j++{
+		for j := 0 ; j <= i; j++ {
 			fmt.Print("*")
 		}
 		fmt.Println()
