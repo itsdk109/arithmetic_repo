@@ -18,7 +18,7 @@ fmt.Println(x,y)
 var n, c = "Mr." , "Hello_World"
 fmt.Println("N: ",n, "\nC: ",c)
 
-// if the variable has no initialValue. it will have assign 0 as a initialValue automatically
+// if the variable has no initialValue. it will have 0 assigned as a initialValue automatically
 
 var p, q int
 fmt.Println("P value is ", p , "\nQ value is", q)
