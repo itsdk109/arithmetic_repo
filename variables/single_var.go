@@ -5,7 +5,7 @@ package main
 import "fmt"
 
 func main() {
-	var number int = 20 // variable declaration
+	var number int // variable declaration
 
 	fmt.Println(number)
 }
