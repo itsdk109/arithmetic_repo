@@ -13,4 +13,9 @@ var x, y int = 25, 36
 
 fmt.Println(name, b)
 fmt.Println(x,y)
+
+// type can be removed if the variable have initial Value
+var n, c = "Mr." , "Hello_World"
+fmt.Println("N: ",n, "\nC: ",c)
+
 }
