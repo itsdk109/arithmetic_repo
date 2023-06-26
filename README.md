@@ -25,41 +25,41 @@
 
 # What We'll cover in this Go language Basic tutorials Seris:
 
-> + **Hello World**
+ + **Hello World**
 
-> + **Variables**
+ + **Variables**
 
-> + **Types**
+ + **Types**
 
-> + **Function**
+ + **Function**
 
-> + **Packages**
+ + **Packages**
 
-> + **Conditional Statements and Loops:**
+ + **Conditional Statements and Loops:**
 
->    + **if else statement**
->    + **Loops**
->    + **Switch Statement**
+    + **if else statement**
+    + **Loops**
+    + **Switch Statement**
 
-> + **Arrays, Slices and Variadic Functions:**
->    + **Array & Slices**
->    + **Variadic Functions**
+ + **Arrays, Slices and Variadic Functions:**
+    + **Array & Slices**
+    + **Variadic Functions**
 
-> + **More types:**
->    + **Maps**
->    + **Strings**
++ **More types:**
+    + **Maps**
+    + **Strings**
 
-> + **Pointers, Structs and Methods:**
->    + **Pointers**
->    + **Structs**
->    + **Methods**
+ + **Pointers, Structs and Methods:**
+    + **Pointers**
+    + **Structs**
+    + **Methods**
 
-> + **Interfaces:**
->   + **Interfaces - I**
->   + **Interfaces - II**
+ + **Interfaces:**
+    + **Interfaces - I**
+    + **Interfaces - II**
 
-> + **File Handling:**
->   + **Reading Files**
->   + **Writing Files**
+ + **File Handling:**
+    + **Reading Files**
+    + **Writing Files**
 
 
