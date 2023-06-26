@@ -58,14 +58,6 @@
 >   + **Interfaces - I**
 >   + **Interfaces - II**
 
-> + **Concurrency:**
->   + **Introduction to Concurrency**
->   + **Goroutines**
->   + **Channels**
->   + **Buffered Channels and Worker Pools**
->   + **Select**
->   + **Mutex**
-
 > + **File Handling:**
 >   + **Reading Files**
 >   + **Writing Files**
