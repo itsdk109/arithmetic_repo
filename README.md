@@ -51,18 +51,15 @@
 >    + **Strings**
 
 > + **Pointers, Structs and Methods:**
-
 >    + **Pointers**
 >    + **Structs**
 >    + **Methods**
 
 > + **Interfaces:**
-
 >   + **Interfaces - I**
 >   + **Interfaces - II**
 
 > + **Concurrency:**
-
 >   + **Introduction to Concurrency**
 >   + **Goroutines**
 >   + **Channels**
