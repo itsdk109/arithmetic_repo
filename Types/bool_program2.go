@@ -1,4 +1,4 @@
-// Logical or (||): Returns true if one of the statements is true
+// Logical OR (||): Returns true if one of the statements is true
 
 package main
 
