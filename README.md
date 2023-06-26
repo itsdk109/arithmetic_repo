@@ -24,42 +24,42 @@
 > + **fmt.Println()** is a function made available from the fmt package. It is used to output/print text.
 
 # What We'll cover in this Go language Basic tutorials Series:
->
-    + **Hello World**
 
-    + **Variables**
+ + **Hello World**
 
-    + **Types**
+ + **Variables**
 
-    + **Function**
+ + **Types**
 
-    + **Packages**
+ + **Function**
 
-    + **Conditional Statements and Loops:**
+ + **Packages**
 
-        + **if else statement**
-        + **Loops**
-        + **Switch Statement**
+ + **Conditional Statements and Loops:**
 
-    + **Arrays, Slices and Variadic Functions:**
-        + **Array & Slices**
-        + **Variadic Functions**
+    + **if else statement**
+    + **Loops**
+    + **Switch Statement**
 
-    + **More types:**
-        + **Maps**
-        + **Strings**
+ + **Arrays, Slices and Variadic Functions:**
+    + **Array & Slices**
+    + **Variadic Functions**
 
-    + **Pointers, Structs and Methods:**
-        + **Pointers**
-        + **Structs**
-        + **Methods**
++ **More types:**
+    + **Maps**
+    + **Strings**
 
-    + **Interfaces:**
-        + **Interfaces - I**
-        + **Interfaces - II**
+ + **Pointers, Structs and Methods:**
+    + **Pointers**
+    + **Structs**
+    + **Methods**
 
-    + **File Handling:**
-        + **Reading Files**
-        + **Writing Files**
+ + **Interfaces:**
+    + **Interfaces - I**
+    + **Interfaces - II**
+
+ + **File Handling:**
+    + **Reading Files**
+    + **Writing Files**
 
 
