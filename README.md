@@ -23,7 +23,7 @@
 > + **func main() {}** is a function. Any code inside its curly brackets {} will be executed.
 > + **fmt.Println()** is a function made available from the fmt package. It is used to output/print text.
 
-# What We'll cover in this Go language Basic tutorials Seris:
+# What We'll cover in this Go language Basic tutorials Series:
 
  + **Hello World**
 
