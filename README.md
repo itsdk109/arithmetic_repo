@@ -7,5 +7,13 @@
 + Go was developed at Google by Robert Griesemer, Rob Pike, and Ken Thompson in 2007
 + Go's syntax is similar to C++
 
+## Go syntax:
+> **A Go file consists of the following parts:**
+
+   + Package declaration 
+   + Import packages
+   + Functions
+   + Statements and expressions
+
 
 
