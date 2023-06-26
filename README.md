@@ -42,7 +42,6 @@
 >    + **Switch Statement**
 
 > + **Arrays, Slices and Variadic Functions:**
-
 >    + **Array & Slices**
 >    + **Variadic Functions**
 
@@ -67,27 +66,8 @@
 >   + **Select**
 >   + **Mutex**
 
-> + **Object Oriented Programming**
-
-26 - Structs Instead of Classes
-27 - Composition Instead of Inheritance
-28 - Polymorphism
-Defer and Error Handling
-
-29 - Defer
-30 - Error Handling
-31 - Custom Errors
-32 - Error Wrapping
-33 - Panic and Recover
-First Class Functions
-
-34 - First Class Functions
-Reflection
-
-35 - Reflection
-File Handling
-
-36 - Reading Files
-37- Writing Files
+> + **File Handling:**
+>   + **Reading Files**
+>   + **Writing Files**
 
 
