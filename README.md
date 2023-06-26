@@ -7,7 +7,7 @@
 + Go was developed at Google by Robert Griesemer, Rob Pike, and Ken Thompson in 2007
 + Go's syntax is similar to C++
 
-## Go syntax:
+# Go syntax:
 > **A Go file consists of the following parts:**
 
 >   + Package declaration 
@@ -16,7 +16,7 @@
 >   + Statements and expressions
 
 
-## For Example: 
+# For Example: 
 > + Define it using **package** Keyword followed by **main** library.
 > + **import ("fmt")**
 > + A blank line. Go ignores white space. Having white spaces in code makes it more readable.
