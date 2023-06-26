@@ -20,7 +20,7 @@
 > + Define it using **package** Keyword followed by **main** library.
 > + **import ("fmt")**
 > + A blank line. Go ignores white space. Having white spaces in code makes it more readable.
-> + func main() {} is a function. Any code inside its curly brackets {} will be executed.
-> + fmt.Println() is a function made available from the fmt package. It is used to output/print text.
+> + **func main() {}** is a function. Any code inside its curly brackets {} will be executed.
+> + **fmt.Println()** is a function made available from the fmt package. It is used to output/print text.
 
 
