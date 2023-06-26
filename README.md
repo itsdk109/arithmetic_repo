@@ -26,24 +26,71 @@
 # What We'll cover in this Go language Basic tutorials Seris:
 
 > + **Hello World**
+
 > + **Variables**
+
 > + **Types**
+
 > + **Function**
+
 > + **Packages**
-> + **Conditional Statements and Loops**
+
+> + **Conditional Statements and Loops:**
+
 >    + **if else statement**
 >    + **Loops**
 >    + **Switch Statement**
-> + **Arrays, Slices and Variadic Functions**
+
+> + **Arrays, Slices and Variadic Functions:**
+
 >    + **Array & Slices**
 >    + **Variadic Functions**
-> + **More types**
+
+> + **More types:**
 >    + **Maps**
 >    + **Strings**
-> + **Pointers, Structs and Methods**
+
+> + **Pointers, Structs and Methods:**
+
 >    + **Pointers**
 >    + **Structs**
 >    + **Methods**
 
+> + **Interfaces:**
+
+>   + **Interfaces - I**
+>   + **Interfaces - II**
+
+> + **Concurrency:**
+
+>   + **Introduction to Concurrency**
+>   + **Goroutines**
+>   + **Channels**
+>   + **Buffered Channels and Worker Pools**
+>   + **Select**
+>   + **Mutex**
+
+> + **Object Oriented Programming**
+
+26 - Structs Instead of Classes
+27 - Composition Instead of Inheritance
+28 - Polymorphism
+Defer and Error Handling
+
+29 - Defer
+30 - Error Handling
+31 - Custom Errors
+32 - Error Wrapping
+33 - Panic and Recover
+First Class Functions
+
+34 - First Class Functions
+Reflection
+
+35 - Reflection
+File Handling
+
+36 - Reading Files
+37- Writing Files
 
 
