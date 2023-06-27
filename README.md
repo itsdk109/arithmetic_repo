@@ -63,5 +63,5 @@
     + **Writing Files**
 
 
-## I hope you'll enjoy this go basic tutorial. Thank You!
+## I hope you'll be enjoying this go basic tutorial. Thank You!
 
