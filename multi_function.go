@@ -12,7 +12,7 @@ func mul(x int , y int) (int,int) {
 
 func main(){
 
-area_triangle, multiplication := mul(7,10)
-fmt.Println("Area of Triangle:",area_triangle," ", "Product of x*y: ", multiplication)
+a, m := mul(7,10) // calling Function
+fmt.Println("Area of Triangle:",a," ", "Product of x*y: ", m)
 
 }
