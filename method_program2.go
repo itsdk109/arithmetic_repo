@@ -1,3 +1,5 @@
+// How to create Multiple Method using a struct
+
 package main
 
 import "fmt"
