@@ -39,5 +39,4 @@ func main() {
 
 	var result int = add(x, y)
 	fmt.Println(result)
-
 }
